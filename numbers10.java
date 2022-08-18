@@ -1,3 +1,6 @@
+/* This is very basic approach using if alse to count positive and negative numbers
+   There can be more approaches using for loop, arrays, function call, etc.
+*/
 import java.util.*;
 public class numbers10
 {
